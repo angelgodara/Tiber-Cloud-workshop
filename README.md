@@ -1,2 +1,2 @@
 # Tiber-Cloud-workshop
-a machine learning based loan approval predictor, working on decision trees.
+This AI/ML-based loan approval system predicts whether a loan will be approved based on a user's income, qualification, and employment status. It uses a RandomForestClassifier, trained on 80% of the dataset and tested on the rest, to ensure high accuracy. Users input their details, and the model determines loan approval status (Approved/Rejected). This project demonstrates machine learning in financial decision-making and can be extended for real-world applications.
